@@ -64,8 +64,8 @@ pip install -r requirements.txt
 1. **克隆或下载项目代码**
 
    ```bash
-   git clone https://github.com/your_username/your_repository.git
-   cd your_repository
+   git clone https://github.com/Chris-websketch/VisiAI.git
+   cd VisiAI
    ```
 
 2. **安装依赖**
