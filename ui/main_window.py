@@ -25,7 +25,7 @@ class MainWindow(QMainWindow):
         # 设置日志记录器
         self.logger = logging.getLogger(__name__)
 
-        self.setWindowTitle("独众AI客服")
+        self.setWindowTitle("VisiAI")
         self.setGeometry(100, 100, 800, 600)
         self.setWindowIcon(QIcon("dz.ico"))
 
@@ -43,7 +43,7 @@ class MainWindow(QMainWindow):
         self.stacked_widget.addWidget(self.main_widget)
 
         # 标题标签
-        self.title_label = QLabel("独众AI客服")
+        self.title_label = QLabel("VisiAI")
         self.title_label.setAlignment(Qt.AlignmentFlag.AlignCenter)
         self.title_label.setStyleSheet("""
             QLabel {
