@@ -1,6 +1,6 @@
 # VisiAI - 基于纯视觉的LLM自动回复解决方案
 
-[链接文字](https://github.com/Chris-websketch/VisiAI/blob/main/English.md)
+[English](https://github.com/Chris-websketch/VisiAI/blob/main/English.md)
 
 
 ## 软件运行截图
