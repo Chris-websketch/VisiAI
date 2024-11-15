@@ -203,7 +203,6 @@ pip install -r requirements.txt
 如有任何问题或建议，请联系：
 
 - **邮箱**：3088417118@qq.com
-- **GitHub**：[@your_username](https://github.com/your_username)
 
 ## 许可证
 
