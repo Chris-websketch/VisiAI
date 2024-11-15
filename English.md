@@ -1,5 +1,8 @@
 # VisiAI - Vision-Based LLM Auto-Reply Solution
 
+## Screenshots of the software in action
+<img width="1726" alt="Snipaste_2024-11-15_15-48-08" src="https://github.com/user-attachments/assets/7d09f71d-076b-451e-a7b7-f11b390a49e4">
+
 ## Project Overview
 
 **VisiAI** is an intelligent AI customer service solution that uses computer vision and large language models (LLMs) to automatically detect new messages in chat windows, recognize content, and generate intelligent replies. This project aims to provide businesses with an efficient and smart customer service solution, enhancing both efficiency and user satisfaction.
